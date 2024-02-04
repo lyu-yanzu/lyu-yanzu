@@ -31,7 +31,7 @@ Hi, I'm yelang 😉, 29 years old Developer and Programmer 👨🏻‍💻 from 
 <a href='https://twitter.com/yelang_web' target='__blank'><img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white'></a>
 <a href='mailto:happyforeveron@gmail.com' target='__blank'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'></a>
 
-<img src="https://camo.githubusercontent.com/cac06b684fa15141dc2628f5e64f4addf3a7e189df6f6aee14f25f5e1dc7dbed/68747470733a2f2f67697465652e636f6d2f736b796b65796a6f6b65722f506963436c6f75642f7261772f6d61737465722f696d672f64696e6f2e676966" alt="dino" data-canonical-src="https://gitee.com/skykeyjoker/PicCloud/raw/master/img/dino.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage" />
+<img src="https://github.com/yelang-web/assets/blob/main/yelang-web-dino.gif" alt="dino" data-canonical-src="https://github.com/yelang-web/assets/blob/main/yelang-web-dino.gif" style="max-width: 100%; display: inline-block;" />
 
 
 
