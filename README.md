@@ -24,7 +24,7 @@ Hi, I'm yelang 😉, 29 years old Developer and Programmer 👨🏻‍💻 from 
   <li>🌱 I’m currently learning everything.🤣</li>
   <li>🤔 I hope to be proficient in linux system administration.🐧</li>
   <li>💬 Ask me about anything and I would like to answer.</li>
-  <li>📫 Please contact me via <a href="mailto:yelang-strong@outlook.com">happyforeveron@gmail.com</a></li>
+  <li>📫 Please contact me via <a href="mailto:yelang-strong@outlook.com">yelang-strong@outlook.com</a></li>
 </ul>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"/>
