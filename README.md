@@ -32,7 +32,7 @@ Hi, I'm yelang 😉, 29 years old Developer and Programmer 👨🏻‍💻 from 
 ![yelang's GitHub stats](https://github-readme-stats.vercel.app/api?username=yelang&show_icons=true&theme=radical&locale=en)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yelang&layout=donut)](https://github.com/yelang/github-readme-stats)
 
-<h2 align="left">Connect With Me:</h2>
+<h2 align="left">Connect With Me:  <a href='mailto:yelang-strong@outlook.com'>email</a></h2>
 <div align=center>
   <img src="https://github.com/yelang-web/assets/blob/main/yelang-web-dino.gif" alt="dino" data-canonical-src="https://github.com/yelang-web/assets/blob/main/yelang-web-dino.gif" style="max-width: 100%; display: inline-block;" />
 </div>
