@@ -1,4 +1,4 @@
-Hi, I'm yelang 😉, 29 years old Developer and Programmer 👨🏻‍💻 from China. I'm an open-source professional, and I like to develop in javaScript. I am passionate about web develop. Currently, I'm looking to collaborate on open-source projects. Besides programming, I like delicious food 🥗🥩🌮🍣 and doing sports 🏃⛹️‍♂️🏋🏼‍♂️.
+Hi, I'm wudi 😉, 29 years old Developer and Programmer 👨🏻‍💻 from China. I'm an open-source professional, and I like to develop. I am passionate about web develop. Currently, I'm looking to collaborate on open-source projects. Besides programming, I like delicious food 🥗🥩🌮🍣 and doing sports 🏃⛹️‍♂️🏋🏼‍♂️.
 
 </br>
 
@@ -24,17 +24,16 @@ Hi, I'm yelang 😉, 29 years old Developer and Programmer 👨🏻‍💻 from 
   <li>🌱 I’m currently learning everything.🤣</li>
   <li>🤔 I hope to be proficient in linux system administration.🐧</li>
   <li>💬 Ask me about anything and I would like to answer.</li>
-  <li>📫 Please contact me via <a href="mailto:yelang-strong@outlook.com">yelang-strong@outlook.com</a></li>
+  <li>📫 Please contact me via <a href="mailto:yelangstrong@gmail.com">yelangstrong@gmail.com</a></li>
 </ul>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"/>
 
-![yelang's GitHub stats](https://github-readme-stats.vercel.app/api?username=yelang&show_icons=true&theme=radical&locale=en)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yelang&layout=donut)](https://github.com/yelang/github-readme-stats)
+![wudi's GitHub stats](https://github-readme-stats.vercel.app/api?username=wudiStrong&show_icons=true&theme=radical&locale=en)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wudiStrong&layout=donut)](https://github.com/wudi/github-readme-stats)
 
-<h2 align="left">Connect With Me:  <a href='mailto:yelang-strong@outlook.com'>yelang-strong@outlook.com</a></h2>
 <div align=center>
-  <img src="https://github.com/yelang-web/assets/blob/main/yelang-web-dino.gif" alt="dino" data-canonical-src="https://github.com/yelang-web/assets/blob/main/yelang-web-dino.gif" style="max-width: 100%; display: inline-block;" />
+  <img src="https://github.com/wudiStrong/assets/blob/main/yelang-web-dino.gif" alt="dino" data-canonical-src="https://github.com/wudiStrong/assets/blob/main/yelang-web-dino.gif" style="max-width: 100%; display: inline-block;" />
 </div>
 
 
