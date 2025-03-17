@@ -27,7 +27,7 @@ Hi, I'm wudi 😉, 29 years old Developer and Programmer 👨🏻‍💻 from Ch
   <li>📫 Please contact me via <a href="mailto:yelangstrong@gmail.com">yelangstrong@gmail.com</a></li>
 </ul>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wudiStrong&layout=donut)](https://github.com/wudi/github-readme-stats)
+![wudi's GitHub stats](https://github-readme-stats.vercel.app/api?username=wudiStrong&show_icons=true&theme=radical&locale=en)
 <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"/>
 
 
