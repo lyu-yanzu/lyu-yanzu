@@ -24,7 +24,7 @@ Hi, I'm lyu-yanzu 😉, 29 years old Developer and Programmer 👨🏻‍💻 fr
   <li>🌱 I’m currently learning everything.🤣</li>
   <li>🤔 I hope to be proficient in linux system administration.🐧</li>
   <li>💬 Ask me about anything and I would like to answer.</li>
-  <li>📫 Please contact me via <a href="mailto:lyu-yanzu@outlook.com">lyu-yanzu@outlook.com</a></li>
+  <li>📫 Please contact me via <a href="mailto:kiaoempa_code@icloud.com">kiaoempa_code@icloud.com</a></li>
 </ul>
 
 ![lyu-yanzu's GitHub stats](https://github-readme-stats.vercel.app/api?username=lyu-yanzu&show_icons=true&theme=radical&locale=en)
